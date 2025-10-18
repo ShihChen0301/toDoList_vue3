@@ -1,4 +1,4 @@
-// Todo 自動格式化、IDE提示字、輸入框、刪除、開放外部瀏覽、使用者資料全域共存pinia、vue router 頁面路由、JWT、登入/註冊
+// Todo 輸入框、刪除
 // ref()、reactive()
 /**
  * npm init vue@latest
